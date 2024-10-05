@@ -1,0 +1,22 @@
+#photo {
+    height: 280px;
+    width:260px ;
+    display: inline;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 181px;
+ 
+
+}
+img {
+    border-radius: 20%;
+  }
+
+.team1 {
+    display: inline;
+    margin: 2px;
+
+}
+
+
+
